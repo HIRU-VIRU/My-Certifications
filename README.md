@@ -1,6 +1,6 @@
 # My Certifications
 
-Welcome to my certifications repository! This repository contains my achievements in various fields.
+Hello ! I am HIRUTHIK SUDHAKAR . Welcome to my certifications repository! This repository contains my achievements in various fields.
 
 ## Certifications
 
