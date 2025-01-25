@@ -22,7 +22,7 @@ Welcome to my certifications repository! This repository contains my achievement
 ### 4. Pythonic-Sprint IITM
 - **Issued by:** IIT Madras
 - **Program:** Pythonic Sprint
-- **View Certificate:** [Pythonic-Sprint Certificate](./Pythonic-Sprint-IITM/Pythonic-Sprint-Certificate.png)
+- **View Certificate:** [Certificate.png](./Pythonic-Sprint-IITM/Certificate.png)
 
 
 ### 5. IITM BS DEGREE Topper Badges
