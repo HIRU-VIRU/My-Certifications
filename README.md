@@ -12,12 +12,12 @@ Welcome to my certifications repository! This repository contains my achievement
 ### 2. AWS Cloud Practitioner Essentials
 - **Issued by:** Amazon Web Services (Coursera)
 - **Completion Date:** November 13, 2024
-- **View Certificate:** [AWS Certification](./AWS-Cloud-Practitioner/AWS-Certification.pdf)
+- **View Certificate:** [AWS Certification](./AWS-Cloud-Practitioner/AWS-Certification.png)
 
 ### 3. Foundation Certificate - IITM BS Degree
 - **Issued by:** IIT Madras
 - **Program:** Foundation Level of BS Degree
-- **View Certificate:** [Foundation Certificate](./Foundation-Certificate-IITM/Foundation-Certificate-IITM.pdf)
+- **View Certificate:** [Foundation Certificate](./Foundation-Certificate-IITM/Foundation-Certificate-IITM.png)
 
 ### 4. Pythonic-Sprint IITM
 - **Issued by:** IIT Madras
